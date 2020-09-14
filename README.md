@@ -1,2 +1,2 @@
 # Books
-this repository are for the pdf of the books i read or will read in the future
+this repository is for the pdf of the Books I read or will read in the future
